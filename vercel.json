@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "http://8.215.54.214:3000/$1"
+        }
+    ]
+}
